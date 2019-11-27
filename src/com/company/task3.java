@@ -22,7 +22,6 @@ public class task3 {
                     break;
                 default:
                     System.out.println("О, а это кто?");
-                    ;
             }
         }
     }
